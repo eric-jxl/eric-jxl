@@ -27,26 +27,35 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric-jxl"></img>
 
-<!--   profile-green-animate -->
-![](https://raw.githubusercontent.com/BEPb/BEPb/2334d4f1971d8d86f32b9408636fe5862368a902/profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://raw.githubusercontent.com/BEPb/BEPb/c8340496c606bbc8952a5ccdf16ae90af3e38d24/github-contribution-grid-snake.svg)
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/eric-jxl/Tools">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=Tools" />
+  </a>
+  <a href="https://github.com/eric-jxl/go">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=go" />
+  </a>
+</p>
 
 
+### Profile Views
+counting of visitors to this page in this section started from Dec 6, 2022
 
+![](https://count.getloli.com/get/@eric-jxl.github.readme)
+</br>
 
 
 **📫 How to Reach me:**
 
 <p align="left">
-<a href="mailto:jxleric95@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+    <a href="mailto:jxleric95@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg"   alt="Gmail" height="30" width="30" /></a>
 </p>
 
 <div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
+<   summary>:trophy: Github Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-jxl" alt="eric-jxl" /></a>
+<   a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-jxl" alt="eric-jxl" /></a>
 </p>
