@@ -16,20 +16,6 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eric-Jxl!;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
-<a href="https://github.com/eric-jxl/Tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=Tools" />
-</a>
-
-<a href="https://github.com/eric-jxl/go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=go" />
-</a>
-
-<a href="https://github.com/eric-jxl/go_utils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=go_utils" />
-</a>
-<a href="https://github.com/eric-jxl/gopkg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=gopkg" />
-</a>
 
 
 <!--   GitHub stats graph -->
