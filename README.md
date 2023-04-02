@@ -36,6 +36,9 @@
   <a href="https://github.com/eric-jxl/go">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=go" />
   </a>
+   <a href="https://github.com/eric-jxl/eric-jxl.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eric-jxl&repo=eric-jxl.github.io" />
+  </a>
 </p>
 
 
