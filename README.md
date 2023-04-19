@@ -55,11 +55,13 @@ counting of visitors to this page in this section started from Dec 6, 2022
     <a href="mailto:jxleric95@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg"   alt="Gmail" height="30" width="30" /></a>
 </p>
 
-<div align="center">
-<   summary>:trophy: Github Profile Trophy</summary>
-</div>
+<!-- <div align="center">
+    <summary>:trophy: Github Profile Trophy</summary>
+</div> -->
 
 <p align="center"> 
-<   a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-jxl" alt="eric-jxl" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-jxl" alt="eric-jxl" /></a>
 </p>
+
+
 requestID  07042023/11594943
