@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/BEPb/BEPb/2334d4f1971d8d86f32b9408636fe5862368a902/assets/Bottom_up.svg)
+<!--    ![](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif) -->  
 
 <p align="center">
     <a href="https://github.com/eric-jxl/eric-jxl"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -7,7 +8,8 @@
     <a href="https://github.com/eric-jxl/eric-jxl/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/eric-jxl/eric-jxl.svg?logo=github"></a>
     <a href="https://github.com/eric-jxl/eric-jxl/network/members"><img src="https://img.shields.io/github/forks/eric-jxl/eric-jxl.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=eric-jxl.eric-jxl" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=eric-jxl.eric-jxl" alt="visitors"/>
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" alt="Coding"/>
 </p>
 
 ![](https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true)
