@@ -25,7 +25,8 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-immortality.vercel.app/api?username=eric-jxl)| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-jxl&theme=radical&layout=compact) |![](https://github-readme-streak-stats.herokuapp.com/?user=eric-jxl)
+| ![](https://github-immortality.vercel.app/api?username=eric-jxl)| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-jxl&theme=radical&layout=compact) |
+![](https://github-readme-streak-stats.herokuapp.com/?user=eric-jxl)
 
 
 
