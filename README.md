@@ -1,5 +1,7 @@
-![](https://raw.githubusercontent.com/BEPb/BEPb/2334d4f1971d8d86f32b9408636fe5862368a902/assets/Bottom_up.svg)
-<!--    ![](https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif) -->  
+<!--    ![](https://raw.githubusercontent.com/BEPb/BEPb/2334d4f1971d8d86f32b9408636fe5862368a902/assets/Bottom_up.svg) -->
+<div align="center">
+    <img src="https://github.com/sindresorhus/sindresorhus/blob/main/welcome-header.gif"/>
+</div>
 
 <p align="center">
     <a href="https://github.com/eric-jxl/eric-jxl"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
