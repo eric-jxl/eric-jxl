@@ -16,20 +16,18 @@
 </p>
 
 ![](https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="left" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eric-Jxl!;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eric-Jxl!;+Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-immortality.vercel.app/api?username=eric-jxl)| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-jxl&theme=radical&layout=compact) |
-![](https://github-readme-streak-stats.herokuapp.com/?user=eric-jxl)
+| ![](https://github-immortality.vercel.app/api?username=eric-jxl) | ![](https://github-readme-streak-stats.herokuapp.com/?user=eric-jxl) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
